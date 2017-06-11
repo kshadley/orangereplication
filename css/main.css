@@ -1,0 +1,38 @@
+* {
+  margin:0;
+}
+header {
+  background-color: #fe7e00;
+  height: 100px;
+}
+.logo{
+  display: inline-block;
+  margin-top: 22px;
+}
+.logo img{
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+}
+.logo h1 {
+  color:#fff7d8;
+  display: inline-block;
+}
+nav{
+  display: inline-block;
+  float: right;
+  margin-top: 40px;
+}
+nav ul {
+  display: inline-block;
+  list-style:none;
+}
+nav li {
+  display: inline-block;
+}
+nav a{
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 20px;
+}
